@@ -1,0 +1,9 @@
+Package: com.minis.luckyhook
+Name: LuckyHook
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description: 瑞幸 App 账号切换
+Maintainer: minis
+Author: minis
+Section: Tweaks
+Depends: mobilesubstrate
